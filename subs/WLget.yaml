@@ -1,0 +1,2 @@
+proxies:
+  - {"type":"vless","name":"🇸🇬SG_1|1.3MB/s","server":"sg1-r.link-t7.com","port":10036,"uuid":"EF3507AC-123A-4A39-9B4C-7D9BD69F8913","udp":true,"tls":true,"client-fingerprint":"chrome","skip-cert-verify":false,"xudp":true,"reality-opts":{"public-key":"wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE","short-id":"686c0ef0"},"network":"grpc","grpc-opts":{"grpc-service-name":"update"},"encryption":"none","servername":"s0.awsstatic.com"}
