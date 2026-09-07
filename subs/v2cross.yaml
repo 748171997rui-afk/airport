@@ -1,0 +1,23 @@
+proxies:
+  - {"type":"ss","skip-cert-verify":false,"udp":false,"server":"149.22.87.241","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","name":"EPODONIOS-01"}
+  - {"type":"vless","name":"EPODONIOS-02","server":"172.66.140.62","port":8880,"uuid":"160ca353-676d-4b7f-a041-0289e388b865","udp":true,"tls":false,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS-03","server":"18.177.61.231","port":30203,"uuid":"0346a35f-8e11-4b33-852d-00fa9c642878","udp":true,"tls":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS-04","server":"188.114.97.6","port":2086,"uuid":"47fcef29-ab4e-4aa6-932b-d95a18f28a4e","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS-05","server":"172.66.170.172","port":80,"uuid":"e081da45-9fae-4687-9376-f9a6a0dbbe83","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"trojan","password":"-wb.oDfOeHifTGMVEf","server":"188.114.96.8","port":443,"name":"EPODONIOS-06","udp":true,"network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS-07","server":"188.114.96.37","port":443,"uuid":"3804296d-167f-4c1b-8734-147f80473590","udp":true,"alpn":["http/1.1"],"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS-08","server":"108.162.198.178","port":2095,"uuid":"47fcef29-ab4e-4aa6-932b-d95a18f28a4e","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"trojan","password":"Telegram_healer_config","server":"172.67.221.159","port":443,"name":"EPODONIOS-09","udp":true,"network":"tcp"}
+  - {"type":"ss","skip-cert-verify":false,"udp":false,"server":"45.32.16.53","port":8388,"cipher":"chacha20-ietf-poly1305","password":"uTBjZhDmOMwBVAJI","name":"EPODONIOS-10"}
+  - {"type":"vless","name":"EPODONIOS-11","server":"104.17.214.146","port":2095,"uuid":"07ce9daf-8a17-404e-bd7a-07753ae29237","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"EPODONIOS</pre><small class=\"v2cross-node-snapshot-hint\">只导入客户端支持的协议，连接后继续检查 IP、DNS 和 WebRTC。</small></section>                    <div class=\"content-excerpt\">","server":"188.114.97.6","port":8080,"uuid":"47fcef29-ab4e-4aa6-932b-d95a18f28a4e","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"name":"http flickity.metafizzy.co:443","type":"http","tls":true,"server":"flickity.metafizzy.co","port":443,"udp":true,"sni":"flickity.metafizzy.co"}
+  - {"name":"http gethomeland.com:443","type":"http","tls":true,"server":"gethomeland.com","port":443,"udp":true,"sni":"gethomeland.com"}
+  - {"name":"http www.jacklmoore.com/autosize:80","type":"http","tls":false,"server":"www.jacklmoore.com/autosize","port":80,"udp":true}
+  - {"type":"vless","name":"未知 VLESS-931 | free-nodes","server":"13.231.19.51","port":11690,"uuid":"e2b8b217-cffb-4d66-9b8b-eca6e4334032","udp":true,"tls":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"未知 VLESS-944 | free-nodes","server":"52.194.245.53","port":33486,"uuid":"eddee2c9-fdf9-4b55-b8ac-3481a680b060","udp":true,"tls":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
+  - {"type":"vless","name":"美国(yudou789.top 玉豆免费节点)","server":"162.159.81.104","port":80,"uuid":"4b00d726-e072-429b-997e-f07affea3b7f","udp":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp","encryption":"none"}
+  - {"type":"ss","skip-cert-verify":false,"udp":false,"server":"176.97.73.215","port":8388,"cipher":"chacha20-ietf-poly1305","password":"ma6zc4JoLRJA","name":"🇯🇵 Japan"}
+  - {"type":"ss","skip-cert-verify":false,"udp":false,"server":"149.22.87.204","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","name":"🇯🇵JP-149.22.87.204-0136"}
+  - {"type":"ss","skip-cert-verify":false,"udp":false,"server":"149.22.87.240","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","name":"🇯🇵JP_2|5.5MB/s | 福利姬: https://t.me/fuliji_Arrest"}
+  - {"type":"vless","name":"🇯🇵JP_3|1.8MB/s | 网盘搜宝: https://t.me/diskseeker","server":"3.114.220.22","port":10583,"uuid":"814bd064-544d-4255-a070-5705c03f6da9","udp":true,"tls":true,"skip-cert-verify":false,"packet-encoding":"xudp","network":"tcp"}
